@@ -1,0 +1,5 @@
+# 7 "main.c"
+int main(viod)
+{
+ return (0);
+}
